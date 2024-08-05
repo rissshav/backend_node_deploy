@@ -1,0 +1,153 @@
+2024-05-20T11:22:12.312Z [31merror[39m: ::1 Wrong credentials!
+2024-05-20T11:29:28.894Z [31merror[39m: ::1 EPERM: operation not permitted, unlink 'D:\kajal sekhri\artgallery-backend\public\uploads\610rhbnx1s56Landscape29__73788.jpg'
+2024-05-20T12:28:34.055Z [31merror[39m: ::1 EPERM: operation not permitted, unlink 'D:\kajal sekhri\artgallery-backend\public\uploads\ubcsebsjsw56Landscape29__73788.jpg'
+2024-05-20T12:30:08.608Z [31merror[39m: ::1 EPERM: operation not permitted, unlink 'D:\kajal sekhri\artgallery-backend\public\uploads\ta38mkvvzk56Landscape29__73788.jpg'
+2024-05-20T12:36:16.098Z [31merror[39m: ::1 EPERM: operation not permitted, unlink 'D:\kajal sekhri\artgallery-backend\public\uploads\ve2zmrwp6o56Landscape29__73788.jpg'
+2024-05-20T12:42:50.633Z [31merror[39m: ::1 EPERM: operation not permitted, unlink 'D:\kajal sekhri\artgallery-backend\public\uploads\qx7oa9c9r456Landscape29__73788.jpg'
+2024-05-20T13:46:06.238Z [31merror[39m: ::1 EPERM: operation not permitted, unlink 'D:\kajal sekhri\artgallery-backend\public\uploads\0gkoyqazuoistockphoto-1718274155-612x612.jpg'
+2024-05-20T13:46:25.288Z [31merror[39m: ::1 EPERM: operation not permitted, unlink 'D:\kajal sekhri\artgallery-backend\public\uploads\arq5n3phkwistockphoto-1718274155-612x612.jpg'
+2024-05-21T05:09:34.814Z [31merror[39m: ::1 Wrong credentials!
+2024-05-21T09:59:06.581Z [31merror[39m: ::1 Old password is incorrect
+2024-05-21T09:59:33.286Z [31merror[39m: ::1 Wrong credentials!
+2024-05-21T09:59:38.667Z [31merror[39m: ::1 Wrong credentials!
+2024-05-21T09:59:54.360Z [31merror[39m: ::1 Wrong credentials!
+2024-05-21T10:01:01.522Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T04:26:08.979Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T04:28:21.882Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T04:28:30.893Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T04:28:36.569Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T04:39:43.394Z [31merror[39m: ::1 users validation failed: password: Cast to string failed for value "Promise { 'c5e84bd888e786ccc99d362508ca8bdb' }" (type Promise) at path "password"
+2024-07-11T04:39:51.623Z [31merror[39m: ::1 users validation failed: password: Cast to string failed for value "Promise { 'c5e84bd888e786ccc99d362508ca8bdb' }" (type Promise) at path "password"
+2024-07-11T04:41:06.035Z [31merror[39m: ::1 users validation failed: password: Cast to string failed for value "Promise { '042bbac4ca7bc85af1c9528b03ce5569' }" (type Promise) at path "password"
+2024-07-11T04:43:03.909Z [31merror[39m: ::1 users validation failed: password: Cast to string failed for value "Promise { '042bbac4ca7bc85af1c9528b03ce5569' }" (type Promise) at path "password"
+2024-07-11T06:20:04.786Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:21:16.246Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:21:47.249Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:22:24.242Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:24:11.223Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:24:13.234Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:32:20.613Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:35:12.289Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:35:23.336Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:35:32.968Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:35:59.216Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:36:11.214Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:36:13.919Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:36:20.242Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T06:37:20.246Z [31merror[39m: ::1 invalid argument to $skip stage: Expected an integer, but found NaN in: $skip: nan.0
+2024-07-11T07:17:43.279Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T08:42:39.732Z [31merror[39m: ::1 User id already exists
+2024-07-11T08:52:35.918Z [31merror[39m: ::1 Old password is incorrect
+2024-07-11T08:53:15.410Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T08:53:37.273Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T08:53:43.942Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T08:53:55.798Z [31merror[39m: ::1 Password seems to be incorrect!
+2024-07-11T08:54:02.023Z [31merror[39m: ::1 Password seems to be incorrect!
+2024-07-11T08:54:50.230Z [31merror[39m: ::1 Password seems to be incorrect!
+2024-07-11T11:11:39.228Z [31merror[39m: ::1 Wrong credentials!
+2024-07-11T11:14:01.025Z [31merror[39m: ::1 Password seems to be incorrect!
+2024-07-11T11:14:51.223Z [31merror[39m: ::1 Password seems to be incorrect!
+2024-07-11T11:14:55.824Z [31merror[39m: ::1 Wrong credentials!
+2024-07-12T04:50:13.064Z [31merror[39m: ::1 Wrong credentials!
+2024-07-12T04:51:06.607Z [31merror[39m: ::1 Model with the same name already exists!
+2024-07-12T04:53:16.398Z [31merror[39m: ::1 User id already exists
+2024-07-12T04:55:00.058Z [31merror[39m: ::1 Wrong user id!
+2024-07-12T05:23:36.043Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:19:44.570Z [31merror[39m: ::1 the limit must be positive
+2024-07-12T06:26:50.698Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:28:03.407Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:29:04.666Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:31:31.156Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:33:55.677Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:50:46.762Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:51:53.082Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:55:49.693Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:56:05.472Z [31merror[39m: ::1 Incomplete details
+2024-07-12T06:56:54.444Z [31merror[39m: ::1 Incomplete details
+2024-07-12T07:01:25.660Z [31merror[39m: ::1 Incomplete details
+2024-07-12T07:32:18.898Z [31merror[39m: ::1 Cannot read properties of null (reading '_id')
+2024-07-12T07:33:03.059Z [31merror[39m: ::1 Cannot read properties of null (reading '_id')
+2024-07-12T07:53:48.970Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:54:26.756Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:55:10.503Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:58:41.492Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:58:42.483Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:58:53.499Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:59:01.485Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:59:05.486Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:59:13.495Z [31merror[39m: ::1 Missing user id!
+2024-07-12T07:59:24.486Z [31merror[39m: ::1 Missing user id!
+2024-07-12T08:46:31.968Z [31merror[39m: ::1 Missing user id!
+2024-07-12T08:46:53.665Z [31merror[39m: ::1 Missing user id!
+2024-07-12T08:48:04.490Z [31merror[39m: ::1 Missing user id!
+2024-07-12T08:48:21.359Z [31merror[39m: ::1 Missing user id!
+2024-07-12T09:39:30.585Z [31merror[39m: ::1 error:1C80006B:Provider routines::wrong final block length
+2024-07-12T09:43:00.910Z [31merror[39m: ::1 Password seems to be incorrect!
+2024-07-12T09:43:21.286Z [31merror[39m: ::1 error:1C80006B:Provider routines::wrong final block length
+2024-07-12T09:47:21.788Z [31merror[39m: ::1 error:1C80006B:Provider routines::wrong final block length
+2024-07-12T09:47:26.974Z [31merror[39m: ::1 error:1C80006B:Provider routines::wrong final block length
+2024-07-24T12:27:38.695Z [31merror[39m: ::1 Model with the same name already exists!
+2024-07-24T13:34:05.189Z [31merror[39m: ::1 Model with the same name already exists!
+2024-07-24T13:47:15.116Z [31merror[39m: ::1 Model with the same name already exists!
+2024-07-25T04:27:55.347Z [31merror[39m: ::1 connect ECONNREFUSED 0.0.0.0:27017
+2024-07-25T04:28:01.884Z [31merror[39m: ::1 connect ECONNREFUSED 0.0.0.0:27017
+2024-07-25T04:28:07.735Z [31merror[39m: ::1 connect ECONNREFUSED 0.0.0.0:27017
+2024-07-25T04:29:02.204Z [31merror[39m: ::1 connect ECONNREFUSED 0.0.0.0:27017
+2024-07-25T17:44:08.742Z [31merror[39m: ::1 Wrong credentials!
+2024-07-25T17:44:21.011Z [31merror[39m: ::1 Wrong credentials!
+2024-07-25T17:47:54.997Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T17:47:59.543Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T17:48:44.951Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T17:53:57.647Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:01:43.467Z [31merror[39m: ::1 Model with the same name already exists!
+2024-07-25T18:01:51.635Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:06:27.918Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:06:49.044Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:08:05.543Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:08:15.017Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:09:46.669Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:10:37.695Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:14:03.078Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:14:06.689Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-07-25T18:14:34.818Z [31merror[39m: ::1 Input file contains unsupported image format
+2024-08-02T06:56:11.079Z [31merror[39m: ::1 Wrong credentials!
+2024-08-03T02:49:01.482Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+2024-08-03T02:49:09.364Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+2024-08-03T02:49:23.958Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "users"
+2024-08-03T02:57:31.763Z [31merror[39m: ::1 User id already exists
+2024-08-03T03:56:09.753Z [31merror[39m: ::1 User id not found.
+2024-08-03T03:56:19.524Z [31merror[39m: ::1 User id not found.
+2024-08-03T04:05:57.728Z [31merror[39m: ::1 User id not found.
+2024-08-03T04:44:38.486Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:44:42.482Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:44:43.490Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:44:43.494Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:44:54.489Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:44:54.492Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:00.492Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:01.491Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:01.495Z [31merror[39m: ::1 Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:06.485Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:06.489Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:09.260Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:09.266Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:45:20.491Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:51:17.390Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:52:13.068Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:52:48.508Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:53:08.495Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:53:17.494Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:53:27.479Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:53:34.489Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:53:36.480Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:53:39.492Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:53:49.102Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T04:56:14.500Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:56:14.505Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T04:56:39.501Z [31merror[39m: ::1 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "usermodel"
+2024-08-03T05:01:44.720Z [31merror[39m: ::1 Missing user id!
+2024-08-03T05:01:53.861Z [31merror[39m: ::1 Missing user id!
+2024-08-03T05:02:15.182Z [31merror[39m: ::1 Missing user id!
+2024-08-03T05:04:23.848Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T05:05:08.990Z [31merror[39m: ::1 Wrong user id!
+2024-08-03T05:05:18.743Z [31merror[39m: ::1 Wrong user id!
